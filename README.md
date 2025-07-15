@@ -33,7 +33,7 @@ RentPe is a modern web application designed to simplify the rental process for t
 - Bcrypt for password hashing
 
 **Deployment:**
-- AWS
+- AWS 
 
 ---
 
